@@ -1,3 +1,6 @@
 Zeus Expansion Moscow
 =====================
+
+2015-12-22 AKHE - Added polygon to top layer.
+2015-12-22 AKHE - Enlarged component marking sizes
 2015-11-02 AKHE - Released as an open project
